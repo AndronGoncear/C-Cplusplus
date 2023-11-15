@@ -1,0 +1,5 @@
+﻿  Function.cpp
+  main.cpp
+C:\Programming\Portfolio\C++\Check digits\Exam TASK_1\main.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Exam TASK_1.vcxproj -> C:\Programming\Portfolio\C++\Check digits\x64\Debug\Exam TASK_1.exe
